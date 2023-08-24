@@ -25,7 +25,7 @@
 - :dart: Life Hack: "Be the change you want to see in the world"
 - :zap: Fun fact: Sou viciada em jogos fps, gatinhos e doguinhos!<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:heart: Você consegue me encontrar também aqui:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-kamilly_ceppas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamillyceppas/)](https://www.linkedin.com/in/kamillyceppas) [![Twitter Badge](https://img.shields.io/badge/-@kamilly_ceppas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kamillyceppas)](https://twitter.com/kamillyceppas) [![Instagram Badge](https://img.shields.io/badge/-@kamilly_ceppas-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kamilly_ceppas)](https://www.instagram.com/kamilly_ceppas/)
 
