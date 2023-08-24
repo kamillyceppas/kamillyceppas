@@ -23,7 +23,7 @@
 - :rocket: Sempre pronta para trabalhos em equipe
 - :man_technologist: Apaixonada por tecnologia, jogos e inovação!
 - :dart: Life Hack: "Be the change you want to see in the world"
-- :zap: Fun fact: Sou viciada em gatinhos e doguinhos<br>
+- :zap: Fun fact: Sou viciada em jogos fps, gatinhos e doguinhos!<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
