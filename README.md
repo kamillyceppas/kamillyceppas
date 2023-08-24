@@ -27,5 +27,5 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamillyceppas/)](https://www.linkedin.com/in/kamillyceppas) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Instagram Badge](https://img.shields.io/badge/-@kamilly_ceppas-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kamilly_ceppas)](https://www.instagram.com/kamilly_ceppas/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+[![Linkedin Badge](https://img.shields.io/badge/-kamilly_ceppas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamillyceppas/)](https://www.linkedin.com/in/kamillyceppas) [![Twitter Badge](https://img.shields.io/badge/-@kamilly_ceppas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kamillyceppas)](https://twitter.com/kamillyceppas) [![Instagram Badge](https://img.shields.io/badge/-@kamilly_ceppas-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kamilly_ceppas)](https://www.instagram.com/kamilly_ceppas/)
+
