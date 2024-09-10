@@ -13,7 +13,7 @@
  <a href="https://www.w3schools.com/js/default.asp" target="_blank rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a>
     <a href=" https://www.w3schools.com/c/index.php" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg width="40/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg width="40"/>
 
  
  
